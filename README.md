@@ -1,2 +1,2 @@
-# Shark-Client
-Minecraft Bedrock Edition Hacked Client
+# Shark-Client (Soon)
+for 1.20.72
